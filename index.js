@@ -1,3 +1,3 @@
 console.log('hello world!');
 // say hello
-console.log('I hate siri ')
+console.log(' hei!Siri, I love you 2018')
