@@ -1,2 +1,3 @@
 # test
-hello GitHub~
+hello GitHub~ is my NOTE!!!
+
